@@ -1,0 +1,24 @@
+1. Access the website-launchApplication()
+2. Navigate to Manage Service Types-navigate()
+3. Search for the Dermatalogy-search()-list
+4. click on delete button.-delete()
+5. logout-logout()
+6. Login-login()
+7. Navigate to Manage service types-navigate()
+8. Search for the Dermatalogy-search()-3 pages-list
+9.VAlidate the Dermatlogy is deleted
+=========================================
+1. Access the website-launchApplication()
+2. Navigate to Manage Service Types-navigate()
+3. Search for the Dermatalogy-search()-list
+4. click on delete button.-delete()
+5. Navigate to Manage service types-navigate()
+6. Search for the Dermatalogy-search()-3 pages-list
+7.VAlidate the Dermatlogy is deleted
+=====================================
+1. Access the website-launchApplication()->https://demo.openmrs.org/
+	Admin/Admin123
+2. Navigate to Manage Service Types-navigate()
+3. Search for the Dermatalogy-search()-list
+4.VAlidate the specific service is available
+=============================================

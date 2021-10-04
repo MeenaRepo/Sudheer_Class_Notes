@@ -1,0 +1,92 @@
+Github:
+	Source Code REpository
+	Versioning: Commit ID
+	WebBased Application
+	Branching: master,develop,feature/release,hotfix
+	Pull Request
+	Push,Pull from the local github
+	Collaboration tool
+
+
+Signup : create an account
+
+
+branches:
+	main : 2 commit id's
+	develop: 2 from master + 3 commit id's
+	pull request: diff 3 commit id's
+	merge the develop into main : 5 commits + 1 commit id's
+
+Steps to push your code:
+1. Repo URL : https://github.com/sudheer51/GigaMMP.git
+2. Get Collaborator access.
+3. Clone the code into the Eclipse>master branch
+	a. import as a Git repository : https://github.com/sudheer51/GigaMMP.git
+	b. once the code is downloaded > close the wizard.
+	c. import as a existing maven project
+4. Create a branch
+5. Perform the changes
+6. Push the code
+-------------------------------------------
+Student1:Day1: Clone the code from master -> Create a branch US_002 Update  to do the changes in Eclipse->push the code into Github ->
+		merged into master
+Student2: Clone the code master-> Create a branch Login_Tests to do the changes in Eclipse
+Day2: Open Eclipse
+          Switch to master branch
+         pull master branch
+              >>master is upto date
+        Switch to the LoginTests branch
+	>>merge master
+------------------------------------------------------------------------------
+Conflicts:
+ 	Resolve the conflicts
+	Add to index
+	commit and push
+-----------------------------------------------------------------------------------
+Scenario 1: Pushing the code into the Github for the first time.
+Scenario 2: import the code into the eclipse ->Create a branch > Perform changes ->Push to Github->create Pull request->Review->Merge
+Scenario3: Refresh the branch with latest master branch changes
+Scenario4: Resolve the conflicts during refresh the branch
+----------------------------------------------------------------------------------
+Generate a Report of Test Case Execution STatus for all the tests
+	Source Code Repostiory : Github
+	Jenkins : CI/CD tool 
+	Continuous integration
+	Continuous Delivery
+
+		Amazon 
+			Agile Methodology: 4 Sprints [2 weeks]= 8 Weeks ->Release
+			New Enhancements: 10 NEW enhancements
+			Customer Support :20 issues->L1,L2,L3->
+			Environment : DEV,QA,PRE-PROD,PROD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

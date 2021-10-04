@@ -1,0 +1,99 @@
+packageexplorer
+selassingments
+>src/main/java
+	[Implementation of the requirement of the projects are maintained-20]
+>src/test/java
+	       [Testcases are written in this directory -15]
+	       [code coverage of executing this unit tests-60 or 70]
+	       [SonarQube Dashboard]
+>JRE	[1.8,11]
+>MAVEN DEPENDENCIES[Downloaded in the .m2 folder,settings.xml - What is aproxy
+		         https://maven.apache.org/settings.html#Proxies]
+>target[test-out,jar,war]
+>src
+>pom.xml[mention all the dependencies,plugins]
+
+System.setProperty("webdriver.chrome.driver","absolute path");****
+
+===========
+To open a view 
+	Window -> Show view->Other -> "Key in required view name"
+
+
+
+Assingment  1: Top 5 Gainers: Stock name,Current Price,
+1. Access the website https://money.rediff.com/gainers
+2. Retrieve top 5 Gainers and display the inforamtion.
+3. Number is always dynamic.
+
+Assignment 2:
+Fetch the current price of a specific stock 
+
+"Hello World"
+String studentName="James"
+"Hello"+studentName+" World"
+
+String stockName="Stove Kraft";
+ "//a[contains(text(),'"+stockName +"')]/parent::td/following-sibling::td[3]"
+
+"+varName+"
+=======================================================
+
+List:
+	String s ="Selenium";
+	list.add("s");
+	list.add("s");
+	list.size();-->2
+	list.get(i);
+
+Set:
+	String s ="Selenium";
+	set.add("s");
+	set.add("s");
+	set.size();-->1
+	set.get(i);
+
+
+
+Store in 6 Strings as expected
+
+Fetch the 6 String as actual
+
+and compare 
+------------------------------------------
+Register as a user:fill 10 values :hashmap
+Login
+MyAccount: validate the 10 values are properly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+views->outline,console,package explorer
